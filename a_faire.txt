@@ -1,0 +1,15 @@
+Garder code en local
+
+le tester sq cloud si guthub
+sq comm si gitlab
+
+une fois log creer formulaire avec données et fichier en pj . A envoyé sur le serveur.
+filtrage ou non pour eviter injection
+comment upload fichier 
+
+	--> faire passer les images en binaires pas juste le chemin
+
+
+tester la meme chose et remplacer le .js par php voir la difference.
+
+noter l'apport de l'outil dans le développement.
